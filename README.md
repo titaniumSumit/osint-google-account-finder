@@ -7,6 +7,6 @@ An educational tool for OSINT that attempts to find Google accounts linked to a 
 - Educational purposes only.
 
 ## Setup
-1. Clone the repository: `git clone <repo-url>`
+1. Clone the repository: `git clone https://github.com/titaniumSumit/osint-google-account-finder.git`
 2. Navigate to the directory: `cd osint-google-account-finder`
 3. Run the setup: `chmod +x setup.sh && ./setup.sh`
